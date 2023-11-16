@@ -229,7 +229,7 @@ def rcrack(uid,pwx,tl):
             'sec-ch-ua-full-version-list': '"Not)A;Brand";v="24.0.0.0", "Chromium";v="116.0.5845.240"',
             'sec-ch-ua-mobile': '?1',
             'sec-ch-ua-model': '"23021RAAEG"',
-            'sec-ch-ua-platform': '"Android"',i
+            'sec-ch-ua-platform': '"Android"',
             'sec-ch-ua-platform-version': '"13.0.0"',
             'sec-fetch-dest': 'document',
             'sec-fetch-mode': 'navigate',
